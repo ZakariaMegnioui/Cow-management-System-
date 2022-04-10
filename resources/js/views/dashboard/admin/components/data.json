@@ -1,0 +1,4331 @@
+﻿[
+    {
+        "ID": "1",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "8",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "13",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "19",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "24",
+        "Devel": "-0.48",
+        "TypeBassin": "NULL",
+        "Membres": "-1.17",
+        "Pis": "-0.74",
+        "Precision": "NULL",
+        "peres_ID": "011HO10075"
+    },
+    {
+        "ID": "30",
+        "Devel": "0.15",
+        "TypeBassin": "NULL",
+        "Membres": "-0.47",
+        "Pis": "0.33",
+        "Precision": "NULL",
+        "peres_ID": "011HO10079"
+    },
+    {
+        "ID": "35",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "0.05",
+        "Pis": "-2.19",
+        "Precision": "NULL",
+        "peres_ID": "014HO04956"
+    },
+    {
+        "ID": "40",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "0.05",
+        "Pis": "-2.19",
+        "Precision": "NULL",
+        "peres_ID": "014HO04956"
+    },
+    {
+        "ID": "46",
+        "Devel": "-1.55",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "202HO00163"
+    },
+    {
+        "ID": "53",
+        "Devel": "-0.35",
+        "TypeBassin": "NULL",
+        "Membres": "0.08",
+        "Pis": "-0.26",
+        "Precision": "NULL",
+        "peres_ID": "007HO08946"
+    },
+    {
+        "ID": "59",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "64",
+        "Devel": "-0.95",
+        "TypeBassin": "NULL",
+        "Membres": "-1.46",
+        "Pis": "-1.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO05061"
+    },
+    {
+        "ID": "70",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "75",
+        "Devel": "-1.67",
+        "TypeBassin": "NULL",
+        "Membres": "-2.04",
+        "Pis": "-1.93",
+        "Precision": "NULL",
+        "peres_ID": "011HO09317"
+    },
+    {
+        "ID": "81",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "-0.89",
+        "Pis": "-0.60",
+        "Precision": "NULL",
+        "peres_ID": "200HO05755"
+    },
+    {
+        "ID": "88",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "96",
+        "Devel": "-0.56",
+        "TypeBassin": "NULL",
+        "Membres": "-0.71",
+        "Pis": "0.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO08939"
+    },
+    {
+        "ID": "101",
+        "Devel": "0.15",
+        "TypeBassin": "NULL",
+        "Membres": "-0.47",
+        "Pis": "0.33",
+        "Precision": "NULL",
+        "peres_ID": "011HO10079"
+    },
+    {
+        "ID": "108",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "114",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "122",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "128",
+        "Devel": "-0.01",
+        "TypeBassin": "NULL",
+        "Membres": "0.17",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03662"
+    },
+    {
+        "ID": "133",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "139",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "143",
+        "Devel": "-0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.10",
+        "Precision": "NULL",
+        "peres_ID": "200HO02614"
+    },
+    {
+        "ID": "148",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "154",
+        "Devel": "0.81",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO00562"
+    },
+    {
+        "ID": "159",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "168",
+        "Devel": "1.40",
+        "TypeBassin": "NULL",
+        "Membres": "2.03",
+        "Pis": "1.66",
+        "Precision": "NULL",
+        "peres_ID": "007HO10277"
+    },
+    {
+        "ID": "174",
+        "Devel": "-0.22",
+        "TypeBassin": "NULL",
+        "Membres": "-0.39",
+        "Pis": "-0.49",
+        "Precision": "NULL",
+        "peres_ID": "200HO03527"
+    },
+    {
+        "ID": "178",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "185",
+        "Devel": "0.05",
+        "TypeBassin": "NULL",
+        "Membres": "-0.80",
+        "Pis": "-0.55",
+        "Precision": "NULL",
+        "peres_ID": "200HO03812"
+    },
+    {
+        "ID": "190",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "197",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "200",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "206",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "213",
+        "Devel": "-0.47",
+        "TypeBassin": "NULL",
+        "Membres": "-1.31",
+        "Pis": "-1.03",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA004241029260"
+    },
+    {
+        "ID": "217",
+        "Devel": "-0.87",
+        "TypeBassin": "NULL",
+        "Membres": "-1.02",
+        "Pis": "-1.06",
+        "Precision": "NULL",
+        "peres_ID": "014HO03831"
+    },
+    {
+        "ID": "221",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "-0.76",
+        "Pis": "-0.35",
+        "Precision": "NULL",
+        "peres_ID": "200HO00577"
+    },
+    {
+        "ID": "224",
+        "Devel": "-0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-1.52",
+        "Pis": "-0.57",
+        "Precision": "NULL",
+        "peres_ID": "011HO09205"
+    },
+    {
+        "ID": "232",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "0.84",
+        "Pis": "-0.23",
+        "Precision": "NULL",
+        "peres_ID": "200HO03672"
+    },
+    {
+        "ID": "236",
+        "Devel": "-0.56",
+        "TypeBassin": "NULL",
+        "Membres": "-0.71",
+        "Pis": "0.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO08939"
+    },
+    {
+        "ID": "242",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "247",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "253",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "258",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "266",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "271",
+        "Devel": "0.00",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO03626"
+    },
+    {
+        "ID": "275",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "281",
+        "Devel": "0.00",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO03626"
+    },
+    {
+        "ID": "286",
+        "Devel": "-1.55",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "202HO00163"
+    },
+    {
+        "ID": "293",
+        "Devel": "0.31",
+        "TypeBassin": "NULL",
+        "Membres": "0.63",
+        "Pis": "-0.48",
+        "Precision": "NULL",
+        "peres_ID": "029HO11943"
+    },
+    {
+        "ID": "298",
+        "Devel": "0.54",
+        "TypeBassin": "NULL",
+        "Membres": "0.86",
+        "Pis": "0.52",
+        "Precision": "NULL",
+        "peres_ID": "200HO03863"
+    },
+    {
+        "ID": "307",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "311",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "316",
+        "Devel": "-0.57",
+        "TypeBassin": "NULL",
+        "Membres": "0.91",
+        "Pis": "0.03",
+        "Precision": "NULL",
+        "peres_ID": "011HO07856"
+    },
+    {
+        "ID": "326",
+        "Devel": "0.07",
+        "TypeBassin": "NULL",
+        "Membres": "-1.29",
+        "Pis": "-1.25",
+        "Precision": "NULL",
+        "peres_ID": "029HO13325"
+    },
+    {
+        "ID": "331",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "337",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "342",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "348",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "355",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "359",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "-0.58",
+        "Pis": "-1.32",
+        "Precision": "NULL",
+        "peres_ID": "029HO14377"
+    },
+    {
+        "ID": "365",
+        "Devel": "-0.74",
+        "TypeBassin": "NULL",
+        "Membres": "-0.70",
+        "Pis": "-0.39",
+        "Precision": "NULL",
+        "peres_ID": "007HO10585"
+    },
+    {
+        "ID": "372",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "378",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "383",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "389",
+        "Devel": "-0.74",
+        "TypeBassin": "NULL",
+        "Membres": "-0.70",
+        "Pis": "-0.39",
+        "Precision": "NULL",
+        "peres_ID": "007HO10585"
+    },
+    {
+        "ID": "398",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "402",
+        "Devel": "-0.01",
+        "TypeBassin": "NULL",
+        "Membres": "0.17",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03662"
+    },
+    {
+        "ID": "409",
+        "Devel": "-0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.54",
+        "Pis": "-0.67",
+        "Precision": "NULL",
+        "peres_ID": "200HO06086"
+    },
+    {
+        "ID": "414",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "420",
+        "Devel": "-0.14",
+        "TypeBassin": "NULL",
+        "Membres": "-1.26",
+        "Pis": "0.45",
+        "Precision": "NULL",
+        "peres_ID": "007HO10502"
+    },
+    {
+        "ID": "426",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "432",
+        "Devel": "-0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.10",
+        "Precision": "NULL",
+        "peres_ID": "200HO02614"
+    },
+    {
+        "ID": "440",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "445",
+        "Devel": "0.58",
+        "TypeBassin": "NULL",
+        "Membres": "1.15",
+        "Pis": "1.06",
+        "Precision": "NULL",
+        "peres_ID": "200HO06115"
+    },
+    {
+        "ID": "450",
+        "Devel": "1.22",
+        "TypeBassin": "NULL",
+        "Membres": "-1.26",
+        "Pis": "0.94",
+        "Precision": "NULL",
+        "peres_ID": "007HO11456"
+    },
+    {
+        "ID": "456",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "460",
+        "Devel": "0.61",
+        "TypeBassin": "NULL",
+        "Membres": "-0.36",
+        "Pis": "1.08",
+        "Precision": "NULL",
+        "peres_ID": "200HO03801"
+    },
+    {
+        "ID": "464",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "471",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "476",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "481",
+        "Devel": "-0.48",
+        "TypeBassin": "NULL",
+        "Membres": "-0.81",
+        "Pis": "-0.03",
+        "Precision": "NULL",
+        "peres_ID": "200HO03765"
+    },
+    {
+        "ID": "487",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "491",
+        "Devel": "-0.57",
+        "TypeBassin": "NULL",
+        "Membres": "0.91",
+        "Pis": "0.03",
+        "Precision": "NULL",
+        "peres_ID": "011HO07856"
+    },
+    {
+        "ID": "499",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.81",
+        "Precision": "NULL",
+        "peres_ID": "200HO00494"
+    },
+    {
+        "ID": "501",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "508",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "514",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "518",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "521",
+        "Devel": "-0.01",
+        "TypeBassin": "NULL",
+        "Membres": "0.17",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03662"
+    },
+    {
+        "ID": "527",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.76",
+        "Precision": "NULL",
+        "peres_ID": "007HO10217"
+    },
+    {
+        "ID": "533",
+        "Devel": "-0.02",
+        "TypeBassin": "NULL",
+        "Membres": "-0.41",
+        "Pis": "0.35",
+        "Precision": "NULL",
+        "peres_ID": "200HO00491"
+    },
+    {
+        "ID": "539",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "-0.51",
+        "Pis": "0.18",
+        "Precision": "NULL",
+        "peres_ID": "014HO05889"
+    },
+    {
+        "ID": "545",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "550",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-0.54",
+        "Pis": "-1.13",
+        "Precision": "NULL",
+        "peres_ID": "029HO10808"
+    },
+    {
+        "ID": "559",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "577",
+        "Devel": "-0.97",
+        "TypeBassin": "NULL",
+        "Membres": "-0.47",
+        "Pis": "-1.28",
+        "Precision": "NULL",
+        "peres_ID": "001HO02481"
+    },
+    {
+        "ID": "580",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "586",
+        "Devel": "0.14",
+        "TypeBassin": "NULL",
+        "Membres": "-0.45",
+        "Pis": "-0.43",
+        "Precision": "NULL",
+        "peres_ID": "011HO10500"
+    },
+    {
+        "ID": "593",
+        "Devel": "-0.56",
+        "TypeBassin": "NULL",
+        "Membres": "-0.71",
+        "Pis": "0.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO08939"
+    },
+    {
+        "ID": "598",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "605",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "614",
+        "Devel": "-1.60",
+        "TypeBassin": "NULL",
+        "Membres": "-0.87",
+        "Pis": "-1.95",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA006114278366"
+    },
+    {
+        "ID": "620",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-1.21",
+        "Pis": "-0.80",
+        "Precision": "NULL",
+        "peres_ID": "014HO05300"
+    },
+    {
+        "ID": "630",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "636",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "641",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "648",
+        "Devel": "0.00",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO03626"
+    },
+    {
+        "ID": "654",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "657",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "0.04",
+        "Pis": "0.36",
+        "Precision": "NULL",
+        "peres_ID": "014HO05434"
+    },
+    {
+        "ID": "661",
+        "Devel": "-0.74",
+        "TypeBassin": "NULL",
+        "Membres": "-0.70",
+        "Pis": "-0.39",
+        "Precision": "NULL",
+        "peres_ID": "007HO10585"
+    },
+    {
+        "ID": "667",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "671",
+        "Devel": "1.40",
+        "TypeBassin": "NULL",
+        "Membres": "2.03",
+        "Pis": "1.66",
+        "Precision": "NULL",
+        "peres_ID": "007HO10277"
+    },
+    {
+        "ID": "679",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.42",
+        "Precision": "NULL",
+        "peres_ID": "007HO08350"
+    },
+    {
+        "ID": "682",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "686",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "0.05",
+        "Pis": "-2.19",
+        "Precision": "NULL",
+        "peres_ID": "014HO04956"
+    },
+    {
+        "ID": "692",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "699",
+        "Devel": "-0.05",
+        "TypeBassin": "NULL",
+        "Membres": "0.14",
+        "Pis": "-0.44",
+        "Precision": "NULL",
+        "peres_ID": "200HO02411"
+    },
+    {
+        "ID": "704",
+        "Devel": "-0.22",
+        "TypeBassin": "NULL",
+        "Membres": "-0.39",
+        "Pis": "-0.49",
+        "Precision": "NULL",
+        "peres_ID": "200HO03527"
+    },
+    {
+        "ID": "710",
+        "Devel": "-0.22",
+        "TypeBassin": "NULL",
+        "Membres": "-0.39",
+        "Pis": "-0.49",
+        "Precision": "NULL",
+        "peres_ID": "200HO03527"
+    },
+    {
+        "ID": "716",
+        "Devel": "0.37",
+        "TypeBassin": "NULL",
+        "Membres": "-0.16",
+        "Pis": "0.32",
+        "Precision": "NULL",
+        "peres_ID": "007HO11561"
+    },
+    {
+        "ID": "720",
+        "Devel": "-0.11",
+        "TypeBassin": "NULL",
+        "Membres": "-0.89",
+        "Pis": "0.36",
+        "Precision": "NULL",
+        "peres_ID": "200HO02704"
+    },
+    {
+        "ID": "726",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "734",
+        "Devel": "0.05",
+        "TypeBassin": "NULL",
+        "Membres": "-0.80",
+        "Pis": "-0.55",
+        "Precision": "NULL",
+        "peres_ID": "200HO03812"
+    },
+    {
+        "ID": "738",
+        "Devel": "-0.22",
+        "TypeBassin": "NULL",
+        "Membres": "-0.33",
+        "Pis": "-0.18",
+        "Precision": "NULL",
+        "peres_ID": "007HO10756"
+    },
+    {
+        "ID": "745",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "750",
+        "Devel": "0.14",
+        "TypeBassin": "NULL",
+        "Membres": "-0.45",
+        "Pis": "-0.43",
+        "Precision": "NULL",
+        "peres_ID": "011HO10500"
+    },
+    {
+        "ID": "753",
+        "Devel": "-0.14",
+        "TypeBassin": "NULL",
+        "Membres": "-1.26",
+        "Pis": "0.45",
+        "Precision": "NULL",
+        "peres_ID": "007HO10502"
+    },
+    {
+        "ID": "757",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "764",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "769",
+        "Devel": "-0.14",
+        "TypeBassin": "NULL",
+        "Membres": "-1.26",
+        "Pis": "0.45",
+        "Precision": "NULL",
+        "peres_ID": "007HO10502"
+    },
+    {
+        "ID": "774",
+        "Devel": "0.12",
+        "TypeBassin": "NULL",
+        "Membres": "-1.13",
+        "Pis": "0.30",
+        "Precision": "NULL",
+        "peres_ID": "007HO10729"
+    },
+    {
+        "ID": "780",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-1.21",
+        "Pis": "-0.80",
+        "Precision": "NULL",
+        "peres_ID": "014HO05300"
+    },
+    {
+        "ID": "783",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "789",
+        "Devel": "-0.02",
+        "TypeBassin": "NULL",
+        "Membres": "-0.41",
+        "Pis": "0.35",
+        "Precision": "NULL",
+        "peres_ID": "200HO00491"
+    },
+    {
+        "ID": "793",
+        "Devel": "0.34",
+        "TypeBassin": "NULL",
+        "Membres": "-0.44",
+        "Pis": "-0.18",
+        "Precision": "NULL",
+        "peres_ID": "007HO10658"
+    },
+    {
+        "ID": "797",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "803",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "-0.89",
+        "Pis": "-0.60",
+        "Precision": "NULL",
+        "peres_ID": "200HO05755"
+    },
+    {
+        "ID": "810",
+        "Devel": "-0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.54",
+        "Pis": "-0.67",
+        "Precision": "NULL",
+        "peres_ID": "200HO06086"
+    },
+    {
+        "ID": "816",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "-0.51",
+        "Pis": "0.18",
+        "Precision": "NULL",
+        "peres_ID": "014HO05889"
+    },
+    {
+        "ID": "822",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "-0.51",
+        "Pis": "0.18",
+        "Precision": "NULL",
+        "peres_ID": "014HO05889"
+    },
+    {
+        "ID": "828",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "833",
+        "Devel": "0.17",
+        "TypeBassin": "NULL",
+        "Membres": "0.38",
+        "Pis": "0.53",
+        "Precision": "NULL",
+        "peres_ID": "029HO13552"
+    },
+    {
+        "ID": "845",
+        "Devel": "1.28",
+        "TypeBassin": "NULL",
+        "Membres": "0.88",
+        "Pis": "1.06",
+        "Precision": "NULL",
+        "peres_ID": "029HO14062"
+    },
+    {
+        "ID": "851",
+        "Devel": "0.31",
+        "TypeBassin": "NULL",
+        "Membres": "0.63",
+        "Pis": "-0.48",
+        "Precision": "NULL",
+        "peres_ID": "029HO11943"
+    },
+    {
+        "ID": "856",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "861",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "867",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "-0.88",
+        "Pis": "-0.43",
+        "Precision": "NULL",
+        "peres_ID": "011HO08239"
+    },
+    {
+        "ID": "871",
+        "Devel": "-1.60",
+        "TypeBassin": "NULL",
+        "Membres": "-0.87",
+        "Pis": "-1.95",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA006114278366"
+    },
+    {
+        "ID": "876",
+        "Devel": "-0.17",
+        "TypeBassin": "NULL",
+        "Membres": "-0.32",
+        "Pis": "-0.43",
+        "Precision": "NULL",
+        "peres_ID": "011HO10232"
+    },
+    {
+        "ID": "887",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "0.05",
+        "Pis": "-2.19",
+        "Precision": "NULL",
+        "peres_ID": "014HO04956"
+    },
+    {
+        "ID": "888",
+        "Devel": "-1.42",
+        "TypeBassin": "NULL",
+        "Membres": "-0.79",
+        "Pis": "-1.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO08031"
+    },
+    {
+        "ID": "899",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "900",
+        "Devel": "1.28",
+        "TypeBassin": "NULL",
+        "Membres": "0.88",
+        "Pis": "1.06",
+        "Precision": "NULL",
+        "peres_ID": "029HO14062"
+    },
+    {
+        "ID": "905",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "0.84",
+        "Pis": "-0.23",
+        "Precision": "NULL",
+        "peres_ID": "200HO03672"
+    },
+    {
+        "ID": "909",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "916",
+        "Devel": "-0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.54",
+        "Pis": "-0.67",
+        "Precision": "NULL",
+        "peres_ID": "200HO06086"
+    },
+    {
+        "ID": "918",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "924",
+        "Devel": "-0.74",
+        "TypeBassin": "NULL",
+        "Membres": "-0.70",
+        "Pis": "-0.39",
+        "Precision": "NULL",
+        "peres_ID": "007HO10585"
+    },
+    {
+        "ID": "930",
+        "Devel": "-0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.10",
+        "Precision": "NULL",
+        "peres_ID": "200HO02614"
+    },
+    {
+        "ID": "935",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "939",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "945",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "948",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "954",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "961",
+        "Devel": "0.79",
+        "TypeBassin": "NULL",
+        "Membres": "0.11",
+        "Pis": "0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03604"
+    },
+    {
+        "ID": "965",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "971",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "980",
+        "Devel": "-0.80",
+        "TypeBassin": "NULL",
+        "Membres": "-0.30",
+        "Pis": "-1.34",
+        "Precision": "NULL",
+        "peres_ID": "014HO06104"
+    },
+    {
+        "ID": "984",
+        "Devel": "0.54",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.15",
+        "Precision": "NULL",
+        "peres_ID": "200HO02783"
+    },
+    {
+        "ID": "991",
+        "Devel": "0.13",
+        "TypeBassin": "NULL",
+        "Membres": "-0.96",
+        "Pis": "-0.48",
+        "Precision": "NULL",
+        "peres_ID": "007HO11038"
+    },
+    {
+        "ID": "995",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "999",
+        "Devel": "-0.22",
+        "TypeBassin": "NULL",
+        "Membres": "-0.33",
+        "Pis": "-0.18",
+        "Precision": "NULL",
+        "peres_ID": "007HO10756"
+    },
+    {
+        "ID": "1004",
+        "Devel": "0.37",
+        "TypeBassin": "NULL",
+        "Membres": "-0.16",
+        "Pis": "0.32",
+        "Precision": "NULL",
+        "peres_ID": "007HO11561"
+    },
+    {
+        "ID": "1009",
+        "Devel": "0.75",
+        "TypeBassin": "NULL",
+        "Membres": "-0.41",
+        "Pis": "1.37",
+        "Precision": "NULL",
+        "peres_ID": "200HO02458"
+    },
+    {
+        "ID": "1012",
+        "Devel": "-0.87",
+        "TypeBassin": "NULL",
+        "Membres": "-1.02",
+        "Pis": "-1.06",
+        "Precision": "NULL",
+        "peres_ID": "014HO03831"
+    },
+    {
+        "ID": "1018",
+        "Devel": "0.47",
+        "TypeBassin": "NULL",
+        "Membres": "0.36",
+        "Pis": "0.21",
+        "Precision": "NULL",
+        "peres_ID": "200HO02817"
+    },
+    {
+        "ID": "1028",
+        "Devel": "0.67",
+        "TypeBassin": "NULL",
+        "Membres": "0.59",
+        "Pis": "0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO03864"
+    },
+    {
+        "ID": "1032",
+        "Devel": "0.75",
+        "TypeBassin": "NULL",
+        "Membres": "0.09",
+        "Pis": "0.17",
+        "Precision": "NULL",
+        "peres_ID": "200HO06461"
+    },
+    {
+        "ID": "1034",
+        "Devel": "0.54",
+        "TypeBassin": "NULL",
+        "Membres": "0.86",
+        "Pis": "0.52",
+        "Precision": "NULL",
+        "peres_ID": "200HO03863"
+    },
+    {
+        "ID": "1040",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "1050",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "1053",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "1055",
+        "Devel": "1.28",
+        "TypeBassin": "NULL",
+        "Membres": "0.88",
+        "Pis": "1.06",
+        "Precision": "NULL",
+        "peres_ID": "029HO14062"
+    },
+    {
+        "ID": "1061",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "1065",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "1070",
+        "Devel": "0.15",
+        "TypeBassin": "NULL",
+        "Membres": "-0.47",
+        "Pis": "0.33",
+        "Precision": "NULL",
+        "peres_ID": "011HO10079"
+    },
+    {
+        "ID": "1074",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "1078",
+        "Devel": "-0.35",
+        "TypeBassin": "NULL",
+        "Membres": "-0.27",
+        "Pis": "-0.85",
+        "Precision": "NULL",
+        "peres_ID": "029HO13388"
+    },
+    {
+        "ID": "1083",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "0.05",
+        "Pis": "-2.19",
+        "Precision": "NULL",
+        "peres_ID": "014HO04956"
+    },
+    {
+        "ID": "1089",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1098",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "-0.08",
+        "Pis": "-0.01",
+        "Precision": "NULL",
+        "peres_ID": "200HO03853"
+    },
+    {
+        "ID": "1102",
+        "Devel": "0.03",
+        "TypeBassin": "NULL",
+        "Membres": "-1.49",
+        "Pis": "-0.37",
+        "Precision": "NULL",
+        "peres_ID": "007HO10505"
+    },
+    {
+        "ID": "1110",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "-1.54",
+        "Pis": "-0.82",
+        "Precision": "NULL",
+        "peres_ID": "200HO76615"
+    },
+    {
+        "ID": "1115",
+        "Devel": "-0.78",
+        "TypeBassin": "NULL",
+        "Membres": "-0.08",
+        "Pis": "-0.32",
+        "Precision": "NULL",
+        "peres_ID": "007HO08223"
+    },
+    {
+        "ID": "1119",
+        "Devel": "0.07",
+        "TypeBassin": "NULL",
+        "Membres": "-1.29",
+        "Pis": "-1.25",
+        "Precision": "NULL",
+        "peres_ID": "029HO13325"
+    },
+    {
+        "ID": "1126",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "1130",
+        "Devel": "-3.27",
+        "TypeBassin": "NULL",
+        "Membres": "-1.95",
+        "Pis": "-3.33",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA004496050154"
+    },
+    {
+        "ID": "1138",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "1151",
+        "Devel": "-0.94",
+        "TypeBassin": "NULL",
+        "Membres": "-0.47",
+        "Pis": "-1.63",
+        "Precision": "NULL",
+        "peres_ID": "011HO10071"
+    },
+    {
+        "ID": "1158",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "1164",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "1170",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "1174",
+        "Devel": "-0.95",
+        "TypeBassin": "NULL",
+        "Membres": "-1.46",
+        "Pis": "-1.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO05061"
+    },
+    {
+        "ID": "1179",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "1185",
+        "Devel": "0.00",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO03626"
+    },
+    {
+        "ID": "1189",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1193",
+        "Devel": "-0.80",
+        "TypeBassin": "NULL",
+        "Membres": "-0.30",
+        "Pis": "-1.34",
+        "Precision": "NULL",
+        "peres_ID": "014HO06104"
+    },
+    {
+        "ID": "1198",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "1204",
+        "Devel": "-0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.54",
+        "Pis": "-0.67",
+        "Precision": "NULL",
+        "peres_ID": "200HO06086"
+    },
+    {
+        "ID": "1209",
+        "Devel": "0.00",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO03626"
+    },
+    {
+        "ID": "1214",
+        "Devel": "0.81",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO00562"
+    },
+    {
+        "ID": "1219",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "1222",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "1229",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "0.04",
+        "Pis": "0.36",
+        "Precision": "NULL",
+        "peres_ID": "014HO05434"
+    },
+    {
+        "ID": "1234",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "1241",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "1244",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "1253",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "1258",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.42",
+        "Precision": "NULL",
+        "peres_ID": "007HO08350"
+    },
+    {
+        "ID": "1261",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.42",
+        "Precision": "NULL",
+        "peres_ID": "007HO08350"
+    },
+    {
+        "ID": "1266",
+        "Devel": "0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.67",
+        "Pis": "1.37",
+        "Precision": "NULL",
+        "peres_ID": "014HO06514"
+    },
+    {
+        "ID": "1269",
+        "Devel": "-1.43",
+        "TypeBassin": "NULL",
+        "Membres": "0.13",
+        "Pis": "-0.86",
+        "Precision": "NULL",
+        "peres_ID": "007HO06959"
+    },
+    {
+        "ID": "1275",
+        "Devel": "-0.54",
+        "TypeBassin": "NULL",
+        "Membres": "-0.05",
+        "Pis": "-0.89",
+        "Precision": "NULL",
+        "peres_ID": "200HO00563"
+    },
+    {
+        "ID": "1277",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.76",
+        "Precision": "NULL",
+        "peres_ID": "007HO10217"
+    },
+    {
+        "ID": "1282",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "0.04",
+        "Pis": "0.36",
+        "Precision": "NULL",
+        "peres_ID": "014HO05434"
+    },
+    {
+        "ID": "1285",
+        "Devel": "-0.05",
+        "TypeBassin": "NULL",
+        "Membres": "0.14",
+        "Pis": "-0.44",
+        "Precision": "NULL",
+        "peres_ID": "200HO02411"
+    },
+    {
+        "ID": "1290",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "1294",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "-0.08",
+        "Pis": "-0.01",
+        "Precision": "NULL",
+        "peres_ID": "200HO03853"
+    },
+    {
+        "ID": "1301",
+        "Devel": "0.47",
+        "TypeBassin": "NULL",
+        "Membres": "0.36",
+        "Pis": "0.21",
+        "Precision": "NULL",
+        "peres_ID": "200HO02817"
+    },
+    {
+        "ID": "1303",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "-0.91",
+        "Pis": "-0.25",
+        "Precision": "NULL",
+        "peres_ID": "200HO03888"
+    },
+    {
+        "ID": "1309",
+        "Devel": "0.75",
+        "TypeBassin": "NULL",
+        "Membres": "0.09",
+        "Pis": "0.17",
+        "Precision": "NULL",
+        "peres_ID": "200HO06461"
+    },
+    {
+        "ID": "1314",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "1325",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "1328",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "1335",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-1.21",
+        "Pis": "-0.80",
+        "Precision": "NULL",
+        "peres_ID": "014HO05300"
+    },
+    {
+        "ID": "1342",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "011HO10000"
+    },
+    {
+        "ID": "1347",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "1354",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "1359",
+        "Devel": "0.81",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO00562"
+    },
+    {
+        "ID": "1365",
+        "Devel": "0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.67",
+        "Pis": "1.37",
+        "Precision": "NULL",
+        "peres_ID": "014HO06514"
+    },
+    {
+        "ID": "1371",
+        "Devel": "0.75",
+        "TypeBassin": "NULL",
+        "Membres": "-0.41",
+        "Pis": "1.37",
+        "Precision": "NULL",
+        "peres_ID": "200HO02458"
+    },
+    {
+        "ID": "1375",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "1383",
+        "Devel": "-0.02",
+        "TypeBassin": "NULL",
+        "Membres": "-0.41",
+        "Pis": "0.35",
+        "Precision": "NULL",
+        "peres_ID": "200HO00491"
+    },
+    {
+        "ID": "1387",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "1392",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1399",
+        "Devel": "-0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.10",
+        "Precision": "NULL",
+        "peres_ID": "200HO02614"
+    },
+    {
+        "ID": "1404",
+        "Devel": "0.07",
+        "TypeBassin": "NULL",
+        "Membres": "-1.29",
+        "Pis": "-1.25",
+        "Precision": "NULL",
+        "peres_ID": "029HO13325"
+    },
+    {
+        "ID": "1408",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "-0.53",
+        "Pis": "-0.97",
+        "Precision": "NULL",
+        "peres_ID": "200HO05956"
+    },
+    {
+        "ID": "1416",
+        "Devel": "0.13",
+        "TypeBassin": "NULL",
+        "Membres": "-0.96",
+        "Pis": "-0.48",
+        "Precision": "NULL",
+        "peres_ID": "007HO11038"
+    },
+    {
+        "ID": "1421",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1427",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1433",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "1439",
+        "Devel": "-1.32",
+        "TypeBassin": "NULL",
+        "Membres": "1.02",
+        "Pis": "-1.11",
+        "Precision": "NULL",
+        "peres_ID": "011HO10491"
+    },
+    {
+        "ID": "1443",
+        "Devel": "-1.42",
+        "TypeBassin": "NULL",
+        "Membres": "-0.79",
+        "Pis": "-1.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO08031"
+    },
+    {
+        "ID": "1447",
+        "Devel": "-0.42",
+        "TypeBassin": "NULL",
+        "Membres": "-1.27",
+        "Pis": "-0.11",
+        "Precision": "NULL",
+        "peres_ID": "029HO13661"
+    },
+    {
+        "ID": "1453",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1459",
+        "Devel": "0.14",
+        "TypeBassin": "NULL",
+        "Membres": "-0.45",
+        "Pis": "-0.43",
+        "Precision": "NULL",
+        "peres_ID": "011HO10500"
+    },
+    {
+        "ID": "1466",
+        "Devel": "-1.13",
+        "TypeBassin": "NULL",
+        "Membres": "-0.11",
+        "Pis": "-1.55",
+        "Precision": "NULL",
+        "peres_ID": "029HO10999"
+    },
+    {
+        "ID": "1471",
+        "Devel": "0.06",
+        "TypeBassin": "NULL",
+        "Membres": "0.17",
+        "Pis": "-0.14",
+        "Precision": "NULL",
+        "peres_ID": "011HO08195"
+    },
+    {
+        "ID": "1477",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-1.21",
+        "Pis": "-0.80",
+        "Precision": "NULL",
+        "peres_ID": "014HO05300"
+    },
+    {
+        "ID": "1484",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "1488",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "1494",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1499",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "1506",
+        "Devel": "-1.42",
+        "TypeBassin": "NULL",
+        "Membres": "-0.79",
+        "Pis": "-1.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO08031"
+    },
+    {
+        "ID": "1511",
+        "Devel": "0.07",
+        "TypeBassin": "NULL",
+        "Membres": "-1.29",
+        "Pis": "-1.25",
+        "Precision": "NULL",
+        "peres_ID": "029HO13325"
+    },
+    {
+        "ID": "1516",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "-0.24",
+        "Pis": "-1.15",
+        "Precision": "NULL",
+        "peres_ID": "200HO02509"
+    },
+    {
+        "ID": "1522",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "1529",
+        "Devel": "0.81",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO00562"
+    },
+    {
+        "ID": "1535",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "1537",
+        "Devel": "0.15",
+        "TypeBassin": "NULL",
+        "Membres": "-0.47",
+        "Pis": "0.33",
+        "Precision": "NULL",
+        "peres_ID": "011HO10079"
+    },
+    {
+        "ID": "1542",
+        "Devel": "1.22",
+        "TypeBassin": "NULL",
+        "Membres": "-1.26",
+        "Pis": "0.94",
+        "Precision": "NULL",
+        "peres_ID": "007HO11456"
+    },
+    {
+        "ID": "1547",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.76",
+        "Precision": "NULL",
+        "peres_ID": "007HO10217"
+    },
+    {
+        "ID": "1552",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "-0.58",
+        "Pis": "-1.32",
+        "Precision": "NULL",
+        "peres_ID": "029HO14377"
+    },
+    {
+        "ID": "1557",
+        "Devel": "0.75",
+        "TypeBassin": "NULL",
+        "Membres": "0.09",
+        "Pis": "0.17",
+        "Precision": "NULL",
+        "peres_ID": "200HO06461"
+    },
+    {
+        "ID": "1564",
+        "Devel": "0.85",
+        "TypeBassin": "NULL",
+        "Membres": "-0.40",
+        "Pis": "0.59",
+        "Precision": "NULL",
+        "peres_ID": "200HO02759"
+    },
+    {
+        "ID": "1569",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "1576",
+        "Devel": "0.81",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO00562"
+    },
+    {
+        "ID": "1584",
+        "Devel": "0.43",
+        "TypeBassin": "NULL",
+        "Membres": "-0.54",
+        "Pis": "0.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO11353"
+    },
+    {
+        "ID": "1586",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "1593",
+        "Devel": "-0.35",
+        "TypeBassin": "NULL",
+        "Membres": "-0.27",
+        "Pis": "-0.85",
+        "Precision": "NULL",
+        "peres_ID": "029HO13388"
+    },
+    {
+        "ID": "1602",
+        "Devel": "-1.42",
+        "TypeBassin": "NULL",
+        "Membres": "-0.79",
+        "Pis": "-1.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO08031"
+    },
+    {
+        "ID": "1607",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "1612",
+        "Devel": "0.31",
+        "TypeBassin": "NULL",
+        "Membres": "0.63",
+        "Pis": "-0.48",
+        "Precision": "NULL",
+        "peres_ID": "029HO11943"
+    },
+    {
+        "ID": "1618",
+        "Devel": "-1.42",
+        "TypeBassin": "NULL",
+        "Membres": "-0.79",
+        "Pis": "-1.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO08031"
+    },
+    {
+        "ID": "1624",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "-0.24",
+        "Pis": "-1.15",
+        "Precision": "NULL",
+        "peres_ID": "200HO02509"
+    },
+    {
+        "ID": "1629",
+        "Devel": "-0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.54",
+        "Pis": "-0.67",
+        "Precision": "NULL",
+        "peres_ID": "200HO06086"
+    },
+    {
+        "ID": "1633",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "1641",
+        "Devel": "-0.97",
+        "TypeBassin": "NULL",
+        "Membres": "-0.47",
+        "Pis": "-1.28",
+        "Precision": "NULL",
+        "peres_ID": "001HO02481"
+    },
+    {
+        "ID": "1645",
+        "Devel": "1.28",
+        "TypeBassin": "NULL",
+        "Membres": "0.88",
+        "Pis": "1.06",
+        "Precision": "NULL",
+        "peres_ID": "029HO14062"
+    },
+    {
+        "ID": "1651",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1659",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "1667",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "-0.51",
+        "Pis": "0.18",
+        "Precision": "NULL",
+        "peres_ID": "014HO05889"
+    },
+    {
+        "ID": "1673",
+        "Devel": "0.35",
+        "TypeBassin": "NULL",
+        "Membres": "-0.98",
+        "Pis": "0.74",
+        "Precision": "NULL",
+        "peres_ID": "029HO13883"
+    },
+    {
+        "ID": "1681",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "0.05",
+        "Pis": "-2.19",
+        "Precision": "NULL",
+        "peres_ID": "014HO04956"
+    },
+    {
+        "ID": "1688",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "1694",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "1698",
+        "Devel": "0.17",
+        "TypeBassin": "NULL",
+        "Membres": "0.38",
+        "Pis": "0.53",
+        "Precision": "NULL",
+        "peres_ID": "029HO13552"
+    },
+    {
+        "ID": "1702",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "1711",
+        "Devel": "0.00",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO03626"
+    },
+    {
+        "ID": "1713",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "-0.89",
+        "Pis": "-0.60",
+        "Precision": "NULL",
+        "peres_ID": "200HO05755"
+    },
+    {
+        "ID": "1718",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "0.04",
+        "Pis": "0.36",
+        "Precision": "NULL",
+        "peres_ID": "014HO05434"
+    },
+    {
+        "ID": "1722",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "1729",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "1738",
+        "Devel": "-0.66",
+        "TypeBassin": "NULL",
+        "Membres": "0.52",
+        "Pis": "-1.34",
+        "Precision": "NULL",
+        "peres_ID": "029HO13854"
+    },
+    {
+        "ID": "1742",
+        "Devel": "-0.74",
+        "TypeBassin": "NULL",
+        "Membres": "-0.70",
+        "Pis": "-0.39",
+        "Precision": "NULL",
+        "peres_ID": "007HO10585"
+    },
+    {
+        "ID": "1746",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "1751",
+        "Devel": "0.21",
+        "TypeBassin": "NULL",
+        "Membres": "-0.37",
+        "Pis": "0.02",
+        "Precision": "NULL",
+        "peres_ID": "007HO10834"
+    },
+    {
+        "ID": "1755",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "1761",
+        "Devel": "0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.67",
+        "Pis": "1.37",
+        "Precision": "NULL",
+        "peres_ID": "014HO06514"
+    },
+    {
+        "ID": "1767",
+        "Devel": "0.61",
+        "TypeBassin": "NULL",
+        "Membres": "-0.36",
+        "Pis": "1.08",
+        "Precision": "NULL",
+        "peres_ID": "200HO03801"
+    },
+    {
+        "ID": "1773",
+        "Devel": "-0.05",
+        "TypeBassin": "NULL",
+        "Membres": "0.14",
+        "Pis": "-0.44",
+        "Precision": "NULL",
+        "peres_ID": "200HO02411"
+    },
+    {
+        "ID": "1781",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "1787",
+        "Devel": "-0.22",
+        "TypeBassin": "NULL",
+        "Membres": "-0.33",
+        "Pis": "-0.18",
+        "Precision": "NULL",
+        "peres_ID": "007HO10756"
+    },
+    {
+        "ID": "1798",
+        "Devel": "0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.70",
+        "Pis": "0.44",
+        "Precision": "NULL",
+        "peres_ID": "200HO06403"
+    },
+    {
+        "ID": "1803",
+        "Devel": "0.12",
+        "TypeBassin": "NULL",
+        "Membres": "-1.13",
+        "Pis": "0.30",
+        "Precision": "NULL",
+        "peres_ID": "007HO10729"
+    },
+    {
+        "ID": "1808",
+        "Devel": "-0.05",
+        "TypeBassin": "NULL",
+        "Membres": "0.14",
+        "Pis": "-0.44",
+        "Precision": "NULL",
+        "peres_ID": "200HO02411"
+    },
+    {
+        "ID": "1814",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "0.04",
+        "Pis": "0.36",
+        "Precision": "NULL",
+        "peres_ID": "014HO05434"
+    },
+    {
+        "ID": "1821",
+        "Devel": "-0.22",
+        "TypeBassin": "NULL",
+        "Membres": "-0.39",
+        "Pis": "-0.49",
+        "Precision": "NULL",
+        "peres_ID": "200HO03527"
+    },
+    {
+        "ID": "1828",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "-0.91",
+        "Pis": "-0.25",
+        "Precision": "NULL",
+        "peres_ID": "200HO03888"
+    },
+    {
+        "ID": "1831",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "-0.58",
+        "Pis": "-1.32",
+        "Precision": "NULL",
+        "peres_ID": "029HO14377"
+    },
+    {
+        "ID": "1838",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "1845",
+        "Devel": "-0.86",
+        "TypeBassin": "NULL",
+        "Membres": "-0.26",
+        "Pis": "-0.82",
+        "Precision": "NULL",
+        "peres_ID": "200HO00467"
+    },
+    {
+        "ID": "1849",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "1853",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.81",
+        "Precision": "NULL",
+        "peres_ID": "200HO00494"
+    },
+    {
+        "ID": "1856",
+        "Devel": "-0.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.10",
+        "Pis": "-1.18",
+        "Precision": "NULL",
+        "peres_ID": "014HO03913"
+    },
+    {
+        "ID": "1863",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-1.21",
+        "Pis": "-0.80",
+        "Precision": "NULL",
+        "peres_ID": "014HO05300"
+    },
+    {
+        "ID": "1867",
+        "Devel": "-1.11",
+        "TypeBassin": "NULL",
+        "Membres": "-0.51",
+        "Pis": "-0.22",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA001451885515"
+    },
+    {
+        "ID": "1871",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "-0.24",
+        "Pis": "-1.15",
+        "Precision": "NULL",
+        "peres_ID": "200HO02509"
+    },
+    {
+        "ID": "1878",
+        "Devel": "0.85",
+        "TypeBassin": "NULL",
+        "Membres": "-0.40",
+        "Pis": "0.59",
+        "Precision": "NULL",
+        "peres_ID": "200HO02759"
+    },
+    {
+        "ID": "1883",
+        "Devel": "1.21",
+        "TypeBassin": "NULL",
+        "Membres": "-0.01",
+        "Pis": "0.91",
+        "Precision": "NULL",
+        "peres_ID": "200HO03809"
+    },
+    {
+        "ID": "1888",
+        "Devel": "0.85",
+        "TypeBassin": "NULL",
+        "Membres": "-0.40",
+        "Pis": "0.59",
+        "Precision": "NULL",
+        "peres_ID": "200HO02759"
+    },
+    {
+        "ID": "1892",
+        "Devel": "0.03",
+        "TypeBassin": "NULL",
+        "Membres": "-1.49",
+        "Pis": "-0.37",
+        "Precision": "NULL",
+        "peres_ID": "007HO10505"
+    },
+    {
+        "ID": "1898",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1903",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "1911",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "-0.76",
+        "Pis": "-0.35",
+        "Precision": "NULL",
+        "peres_ID": "200HO00577"
+    },
+    {
+        "ID": "1913",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "1917",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.92",
+        "Pis": "-0.01",
+        "Precision": "NULL",
+        "peres_ID": "029HO11153"
+    },
+    {
+        "ID": "1925",
+        "Devel": "0.00",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO03626"
+    },
+    {
+        "ID": "1933",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "1946",
+        "Devel": "-1.00",
+        "TypeBassin": "NULL",
+        "Membres": "-0.97",
+        "Pis": "-2.44",
+        "Precision": "NULL",
+        "peres_ID": "014HO04816"
+    },
+    {
+        "ID": "1954",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "1963",
+        "Devel": "-0.47",
+        "TypeBassin": "NULL",
+        "Membres": "0.36",
+        "Pis": "-0.19",
+        "Precision": "NULL",
+        "peres_ID": "011HO08992"
+    },
+    {
+        "ID": "1969",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "-0.51",
+        "Pis": "0.18",
+        "Precision": "NULL",
+        "peres_ID": "014HO05889"
+    },
+    {
+        "ID": "1972",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "1983",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "1992",
+        "Devel": "-0.33",
+        "TypeBassin": "NULL",
+        "Membres": "-0.71",
+        "Pis": "-0.93",
+        "Precision": "NULL",
+        "peres_ID": "011HO10072"
+    },
+    {
+        "ID": "1997",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "2001",
+        "Devel": "-1.11",
+        "TypeBassin": "NULL",
+        "Membres": "-0.51",
+        "Pis": "-0.22",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA001451885515"
+    },
+    {
+        "ID": "2005",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "2010",
+        "Devel": "-0.35",
+        "TypeBassin": "NULL",
+        "Membres": "0.08",
+        "Pis": "-0.26",
+        "Precision": "NULL",
+        "peres_ID": "007HO08946"
+    },
+    {
+        "ID": "2016",
+        "Devel": "-1.55",
+        "TypeBassin": "NULL",
+        "Membres": "0.32",
+        "Pis": "-1.66",
+        "Precision": "NULL",
+        "peres_ID": "202HO00163"
+    },
+    {
+        "ID": "2023",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "2030",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "2037",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "2042",
+        "Devel": "-0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.54",
+        "Pis": "-0.67",
+        "Precision": "NULL",
+        "peres_ID": "200HO06086"
+    },
+    {
+        "ID": "2046",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "-0.53",
+        "Pis": "-0.97",
+        "Precision": "NULL",
+        "peres_ID": "200HO05956"
+    },
+    {
+        "ID": "2051",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "2054",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "2061",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "2064",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "2068",
+        "Devel": "-0.41",
+        "TypeBassin": "NULL",
+        "Membres": "0.53",
+        "Pis": "-0.79",
+        "Precision": "NULL",
+        "peres_ID": "014HO04924"
+    },
+    {
+        "ID": "2071",
+        "Devel": "0.12",
+        "TypeBassin": "NULL",
+        "Membres": "-1.13",
+        "Pis": "0.30",
+        "Precision": "NULL",
+        "peres_ID": "007HO10729"
+    },
+    {
+        "ID": "2081",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "2085",
+        "Devel": "1.03",
+        "TypeBassin": "NULL",
+        "Membres": "0.78",
+        "Pis": "1.45",
+        "Precision": "NULL",
+        "peres_ID": "200HO06323"
+    },
+    {
+        "ID": "2088",
+        "Devel": "-0.24",
+        "TypeBassin": "NULL",
+        "Membres": "-1.23",
+        "Pis": "-1.46",
+        "Precision": "NULL",
+        "peres_ID": "200HO00555"
+    },
+    {
+        "ID": "2100",
+        "Devel": "0.07",
+        "TypeBassin": "NULL",
+        "Membres": "-1.29",
+        "Pis": "-1.25",
+        "Precision": "NULL",
+        "peres_ID": "029HO13325"
+    },
+    {
+        "ID": "2103",
+        "Devel": "-0.57",
+        "TypeBassin": "NULL",
+        "Membres": "0.20",
+        "Pis": "-0.86",
+        "Precision": "NULL",
+        "peres_ID": "011HO10309"
+    },
+    {
+        "ID": "2108",
+        "Devel": "0.85",
+        "TypeBassin": "NULL",
+        "Membres": "-0.40",
+        "Pis": "0.59",
+        "Precision": "NULL",
+        "peres_ID": "200HO02759"
+    },
+    {
+        "ID": "2117",
+        "Devel": "0.31",
+        "TypeBassin": "NULL",
+        "Membres": "0.63",
+        "Pis": "-0.48",
+        "Precision": "NULL",
+        "peres_ID": "029HO11943"
+    },
+    {
+        "ID": "2123",
+        "Devel": "0.12",
+        "TypeBassin": "NULL",
+        "Membres": "-1.13",
+        "Pis": "0.30",
+        "Precision": "NULL",
+        "peres_ID": "007HO10729"
+    },
+    {
+        "ID": "2125",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "2129",
+        "Devel": "0.85",
+        "TypeBassin": "NULL",
+        "Membres": "-0.40",
+        "Pis": "0.59",
+        "Precision": "NULL",
+        "peres_ID": "200HO02759"
+    },
+    {
+        "ID": "2133",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "2138",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "2141",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "2145",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "2150",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "-0.88",
+        "Pis": "-0.43",
+        "Precision": "NULL",
+        "peres_ID": "011HO08239"
+    },
+    {
+        "ID": "2156",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-0.21",
+        "Pis": "-0.31",
+        "Precision": "NULL",
+        "peres_ID": "011HO00559"
+    },
+    {
+        "ID": "2162",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "0.84",
+        "Pis": "-0.23",
+        "Precision": "NULL",
+        "peres_ID": "200HO03672"
+    },
+    {
+        "ID": "2168",
+        "Devel": "-0.02",
+        "TypeBassin": "NULL",
+        "Membres": "-0.52",
+        "Pis": "-0.58",
+        "Precision": "NULL",
+        "peres_ID": "029HO11885"
+    },
+    {
+        "ID": "2186",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "2194",
+        "Devel": "0.07",
+        "TypeBassin": "NULL",
+        "Membres": "-1.29",
+        "Pis": "-1.25",
+        "Precision": "NULL",
+        "peres_ID": "029HO13325"
+    },
+    {
+        "ID": "2201",
+        "Devel": "-0.86",
+        "TypeBassin": "NULL",
+        "Membres": "-0.26",
+        "Pis": "-0.82",
+        "Precision": "NULL",
+        "peres_ID": "200HO00467"
+    },
+    {
+        "ID": "2214",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "2219",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "2227",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "2234",
+        "Devel": "-0.47",
+        "TypeBassin": "NULL",
+        "Membres": "-1.31",
+        "Pis": "-1.03",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA004241029260"
+    },
+    {
+        "ID": "2240",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "2247",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "2254",
+        "Devel": "0.15",
+        "TypeBassin": "NULL",
+        "Membres": "-0.47",
+        "Pis": "0.33",
+        "Precision": "NULL",
+        "peres_ID": "011HO10079"
+    },
+    {
+        "ID": "2261",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "2266",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "2272",
+        "Devel": "-0.35",
+        "TypeBassin": "NULL",
+        "Membres": "0.08",
+        "Pis": "-0.26",
+        "Precision": "NULL",
+        "peres_ID": "007HO08946"
+    },
+    {
+        "ID": "2279",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "2286",
+        "Devel": "0.81",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO00562"
+    },
+    {
+        "ID": "2293",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "2298",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "2304",
+        "Devel": "-0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.10",
+        "Precision": "NULL",
+        "peres_ID": "200HO02614"
+    },
+    {
+        "ID": "2312",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "2317",
+        "Devel": "-0.86",
+        "TypeBassin": "NULL",
+        "Membres": "-0.26",
+        "Pis": "-0.82",
+        "Precision": "NULL",
+        "peres_ID": "200HO00467"
+    },
+    {
+        "ID": "2325",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "0.84",
+        "Pis": "-0.23",
+        "Precision": "NULL",
+        "peres_ID": "200HO03672"
+    },
+    {
+        "ID": "2328",
+        "Devel": "-0.74",
+        "TypeBassin": "NULL",
+        "Membres": "-0.70",
+        "Pis": "-0.39",
+        "Precision": "NULL",
+        "peres_ID": "007HO10585"
+    },
+    {
+        "ID": "2333",
+        "Devel": "-0.01",
+        "TypeBassin": "NULL",
+        "Membres": "0.17",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03662"
+    },
+    {
+        "ID": "2340",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "-0.58",
+        "Pis": "-1.32",
+        "Precision": "NULL",
+        "peres_ID": "029HO14377"
+    },
+    {
+        "ID": "2346",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "2349",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.42",
+        "Precision": "NULL",
+        "peres_ID": "007HO08350"
+    },
+    {
+        "ID": "2352",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.76",
+        "Precision": "NULL",
+        "peres_ID": "007HO10217"
+    },
+    {
+        "ID": "2359",
+        "Devel": "1.40",
+        "TypeBassin": "NULL",
+        "Membres": "2.03",
+        "Pis": "1.66",
+        "Precision": "NULL",
+        "peres_ID": "007HO10277"
+    },
+    {
+        "ID": "2365",
+        "Devel": "-0.54",
+        "TypeBassin": "NULL",
+        "Membres": "-0.05",
+        "Pis": "-0.89",
+        "Precision": "NULL",
+        "peres_ID": "200HO00563"
+    },
+    {
+        "ID": "2369",
+        "Devel": "-0.22",
+        "TypeBassin": "NULL",
+        "Membres": "-0.39",
+        "Pis": "-0.49",
+        "Precision": "NULL",
+        "peres_ID": "200HO03527"
+    },
+    {
+        "ID": "2377",
+        "Devel": "0.81",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO00562"
+    },
+    {
+        "ID": "2386",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "2390",
+        "Devel": "0.31",
+        "TypeBassin": "NULL",
+        "Membres": "0.63",
+        "Pis": "-0.48",
+        "Precision": "NULL",
+        "peres_ID": "029HO11943"
+    },
+    {
+        "ID": "2402",
+        "Devel": "-0.35",
+        "TypeBassin": "NULL",
+        "Membres": "0.08",
+        "Pis": "-0.26",
+        "Precision": "NULL",
+        "peres_ID": "007HO08946"
+    },
+    {
+        "ID": "2403",
+        "Devel": "-0.43",
+        "TypeBassin": "NULL",
+        "Membres": "-0.52",
+        "Pis": "-0.66",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA004140346459"
+    },
+    {
+        "ID": "2410",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "2415",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "2418",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "2423",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "2429",
+        "Devel": "-0.18",
+        "TypeBassin": "NULL",
+        "Membres": "1.48",
+        "Pis": "-0.61",
+        "Precision": "NULL",
+        "peres_ID": "014HO06098"
+    },
+    {
+        "ID": "2433",
+        "Devel": "-0.66",
+        "TypeBassin": "NULL",
+        "Membres": "0.52",
+        "Pis": "-1.34",
+        "Precision": "NULL",
+        "peres_ID": "029HO13854"
+    },
+    {
+        "ID": "2440",
+        "Devel": "-1.07",
+        "TypeBassin": "NULL",
+        "Membres": "-0.58",
+        "Pis": "-1.32",
+        "Precision": "NULL",
+        "peres_ID": "029HO14377"
+    },
+    {
+        "ID": "2447",
+        "Devel": "-0.86",
+        "TypeBassin": "NULL",
+        "Membres": "-0.26",
+        "Pis": "-0.82",
+        "Precision": "NULL",
+        "peres_ID": "200HO00467"
+    },
+    {
+        "ID": "2453",
+        "Devel": "1.28",
+        "TypeBassin": "NULL",
+        "Membres": "0.88",
+        "Pis": "1.06",
+        "Precision": "NULL",
+        "peres_ID": "029HO14062"
+    },
+    {
+        "ID": "2458",
+        "Devel": "-0.64",
+        "TypeBassin": "NULL",
+        "Membres": "-1.33",
+        "Pis": "-0.10",
+        "Precision": "NULL",
+        "peres_ID": "011HO08451"
+    },
+    {
+        "ID": "2465",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "2470",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "2474",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "0.04",
+        "Pis": "0.36",
+        "Precision": "NULL",
+        "peres_ID": "014HO05434"
+    },
+    {
+        "ID": "2478",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "2484",
+        "Devel": "-0.79",
+        "TypeBassin": "NULL",
+        "Membres": "-1.03",
+        "Pis": "-1.88",
+        "Precision": "NULL",
+        "peres_ID": "HOFRA002921633017"
+    },
+    {
+        "ID": "2489",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "2494",
+        "Devel": "-1.61",
+        "TypeBassin": "NULL",
+        "Membres": "-0.48",
+        "Pis": "-1.40",
+        "Precision": "NULL",
+        "peres_ID": "HODEU001402463712"
+    },
+    {
+        "ID": "2500",
+        "Devel": "-0.42",
+        "TypeBassin": "NULL",
+        "Membres": "-1.27",
+        "Pis": "-0.11",
+        "Precision": "NULL",
+        "peres_ID": "029HO13661"
+    },
+    {
+        "ID": "2505",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-1.21",
+        "Pis": "-0.80",
+        "Precision": "NULL",
+        "peres_ID": "014HO05300"
+    },
+    {
+        "ID": "2511",
+        "Devel": "1.28",
+        "TypeBassin": "NULL",
+        "Membres": "0.88",
+        "Pis": "1.06",
+        "Precision": "NULL",
+        "peres_ID": "029HO14062"
+    },
+    {
+        "ID": "2517",
+        "Devel": "0.14",
+        "TypeBassin": "NULL",
+        "Membres": "-0.45",
+        "Pis": "-0.43",
+        "Precision": "NULL",
+        "peres_ID": "011HO10500"
+    },
+    {
+        "ID": "2528",
+        "Devel": "0.23",
+        "TypeBassin": "NULL",
+        "Membres": "0.71",
+        "Pis": "-0.36",
+        "Precision": "NULL",
+        "peres_ID": "011HO08897"
+    },
+    {
+        "ID": "2534",
+        "Devel": "-0.82",
+        "TypeBassin": "NULL",
+        "Membres": "-1.16",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10387"
+    },
+    {
+        "ID": "2542",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "2549",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "2554",
+        "Devel": "-0.95",
+        "TypeBassin": "NULL",
+        "Membres": "-1.46",
+        "Pis": "-1.34",
+        "Precision": "NULL",
+        "peres_ID": "200HO05061"
+    },
+    {
+        "ID": "2560",
+        "Devel": "-0.57",
+        "TypeBassin": "NULL",
+        "Membres": "0.91",
+        "Pis": "0.03",
+        "Precision": "NULL",
+        "peres_ID": "011HO07856"
+    },
+    {
+        "ID": "2568",
+        "Devel": "-0.44",
+        "TypeBassin": "NULL",
+        "Membres": "-0.38",
+        "Pis": "-0.42",
+        "Precision": "NULL",
+        "peres_ID": "007HO08350"
+    },
+    {
+        "ID": "2574",
+        "Devel": "-0.80",
+        "TypeBassin": "NULL",
+        "Membres": "-0.30",
+        "Pis": "-1.34",
+        "Precision": "NULL",
+        "peres_ID": "014HO06104"
+    },
+    {
+        "ID": "2577",
+        "Devel": "-0.13",
+        "TypeBassin": "NULL",
+        "Membres": "0.26",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03711"
+    },
+    {
+        "ID": "2581",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "-0.63",
+        "Pis": "0.08",
+        "Precision": "NULL",
+        "peres_ID": "007HO10172"
+    },
+    {
+        "ID": "2586",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "0.84",
+        "Pis": "-0.23",
+        "Precision": "NULL",
+        "peres_ID": "200HO03672"
+    },
+    {
+        "ID": "2590",
+        "Devel": "0.39",
+        "TypeBassin": "NULL",
+        "Membres": "-0.07",
+        "Pis": "0.16",
+        "Precision": "NULL",
+        "peres_ID": "007HO09229"
+    },
+    {
+        "ID": "2597",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "2604",
+        "Devel": "1.40",
+        "TypeBassin": "NULL",
+        "Membres": "2.03",
+        "Pis": "1.66",
+        "Precision": "NULL",
+        "peres_ID": "007HO10277"
+    },
+    {
+        "ID": "2610",
+        "Devel": "-0.19",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.87",
+        "Precision": "NULL",
+        "peres_ID": "200HO03659"
+    },
+    {
+        "ID": "2614",
+        "Devel": "0.04",
+        "TypeBassin": "NULL",
+        "Membres": "-1.43",
+        "Pis": "-0.07",
+        "Precision": "NULL",
+        "peres_ID": "200HO03559"
+    },
+    {
+        "ID": "2619",
+        "Devel": "0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.67",
+        "Pis": "1.37",
+        "Precision": "NULL",
+        "peres_ID": "014HO06514"
+    },
+    {
+        "ID": "2626",
+        "Devel": "0.81",
+        "TypeBassin": "NULL",
+        "Membres": "0.33",
+        "Pis": "-0.40",
+        "Precision": "NULL",
+        "peres_ID": "200HO00562"
+    },
+    {
+        "ID": "2634",
+        "Devel": "0.25",
+        "TypeBassin": "NULL",
+        "Membres": "-0.67",
+        "Pis": "1.37",
+        "Precision": "NULL",
+        "peres_ID": "014HO06514"
+    },
+    {
+        "ID": "2640",
+        "Devel": "0.10",
+        "TypeBassin": "NULL",
+        "Membres": "0.77",
+        "Pis": "-0.76",
+        "Precision": "NULL",
+        "peres_ID": "007HO10217"
+    },
+    {
+        "ID": "2647",
+        "Devel": "0.34",
+        "TypeBassin": "NULL",
+        "Membres": "-0.44",
+        "Pis": "-0.18",
+        "Precision": "NULL",
+        "peres_ID": "007HO10658"
+    },
+    {
+        "ID": "2654",
+        "Devel": "0.13",
+        "TypeBassin": "NULL",
+        "Membres": "-0.96",
+        "Pis": "-0.48",
+        "Precision": "NULL",
+        "peres_ID": "007HO11038"
+    },
+    {
+        "ID": "2658",
+        "Devel": "-0.05",
+        "TypeBassin": "NULL",
+        "Membres": "0.14",
+        "Pis": "-0.44",
+        "Precision": "NULL",
+        "peres_ID": "200HO02411"
+    },
+    {
+        "ID": "2663",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "2668",
+        "Devel": "0.47",
+        "TypeBassin": "NULL",
+        "Membres": "0.36",
+        "Pis": "0.21",
+        "Precision": "NULL",
+        "peres_ID": "200HO02817"
+    },
+    {
+        "ID": "2675",
+        "Devel": "-0.74",
+        "TypeBassin": "NULL",
+        "Membres": "-0.70",
+        "Pis": "-0.39",
+        "Precision": "NULL",
+        "peres_ID": "007HO10585"
+    },
+    {
+        "ID": "2681",
+        "Devel": "0.90",
+        "TypeBassin": "NULL",
+        "Membres": "0.24",
+        "Pis": "0.47",
+        "Precision": "NULL",
+        "peres_ID": "014HO07298"
+    },
+    {
+        "ID": "2684",
+        "Devel": "-0.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.77",
+        "Pis": "-0.42",
+        "Precision": "NULL",
+        "peres_ID": "200HO02776"
+    },
+    {
+        "ID": "2688",
+        "Devel": "-0.35",
+        "TypeBassin": "NULL",
+        "Membres": "0.08",
+        "Pis": "-0.26",
+        "Precision": "NULL",
+        "peres_ID": "007HO08946"
+    },
+    {
+        "ID": "2693",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "0.07",
+        "Pis": "-0.56",
+        "Precision": "NULL",
+        "peres_ID": "007HO10446"
+    },
+    {
+        "ID": "2707",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "2712",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "2718",
+        "Devel": "-0.26",
+        "TypeBassin": "NULL",
+        "Membres": "-0.89",
+        "Pis": "-0.60",
+        "Precision": "NULL",
+        "peres_ID": "200HO05755"
+    },
+    {
+        "ID": "2724",
+        "Devel": "-0.46",
+        "TypeBassin": "NULL",
+        "Membres": "0.10",
+        "Pis": "-1.24",
+        "Precision": "NULL",
+        "peres_ID": "029HO13665"
+    },
+    {
+        "ID": "2728",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "2734",
+        "Devel": "0.45",
+        "TypeBassin": "NULL",
+        "Membres": "-1.45",
+        "Pis": "0.23",
+        "Precision": "NULL",
+        "peres_ID": "011HO09978"
+    },
+    {
+        "ID": "2739",
+        "Devel": "-1.17",
+        "TypeBassin": "NULL",
+        "Membres": "-1.71",
+        "Pis": "-1.22",
+        "Precision": "NULL",
+        "peres_ID": "011HO09798"
+    },
+    {
+        "ID": "2745",
+        "Devel": "-1.53",
+        "TypeBassin": "NULL",
+        "Membres": "-0.82",
+        "Pis": "-1.80",
+        "Precision": "NULL",
+        "peres_ID": "011HO09816"
+    },
+    {
+        "ID": "2752",
+        "Devel": "-1.42",
+        "TypeBassin": "NULL",
+        "Membres": "-1.67",
+        "Pis": "-1.29",
+        "Precision": "NULL",
+        "peres_ID": "011HO10001"
+    },
+    {
+        "ID": "2760",
+        "Devel": "-0.72",
+        "TypeBassin": "NULL",
+        "Membres": "-0.68",
+        "Pis": "-0.54",
+        "Precision": "NULL",
+        "peres_ID": "011HO09861"
+    },
+    {
+        "ID": "2764",
+        "Devel": "0.59",
+        "TypeBassin": "NULL",
+        "Membres": "0.04",
+        "Pis": "0.36",
+        "Precision": "NULL",
+        "peres_ID": "014HO05434"
+    }
+]

@@ -1,0 +1,535 @@
+#app {
+  .main-container {
+    // min-height: 100%;
+    // transition: margin-left 0.28s;
+
+    margin-left: $sideBarWidth;
+    // position: relative;
+    font-size: 15px;
+    font-family: Montserrat, Helvetica, Arial, serif;
+    font-weight: 400;
+  }
+  .sidebar-container {
+    transition: width 0.28s;
+    width: $sideBarWidth !important;
+    width: 259px !important;
+
+    background-color: $menuBg;
+    height: 100%;
+    position: fixed;
+    // font-size: 0px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1001;
+    overflow: hidden;
+    // reset element-ui css
+    .horizontal-collapse-transition {
+      transition: 0s width ease-in-out, 0s padding-left ease-in-out,
+        0s padding-right ease-in-out;
+    }
+    .scrollbar-wrapper {
+      overflow-x: hidden !important;
+    }
+    .el-scrollbar__bar.is-vertical {
+      right: 0px;
+    }
+    .el-scrollbar {
+      height: 100%;
+    }
+    &.has-logo {
+      .el-scrollbar {
+        height: calc(100% - 50px);
+      }
+    }
+    .is-horizontal {
+      display: none;
+    }
+    a {
+      display: inline-block;
+      width: 100%;
+      overflow: hidden;
+      font-size: 24px;
+    }
+
+    // text on sidebar customizint
+    .el-menu-item {
+      @apply h-11;
+      span {
+        @apply font-Montserrat truncate;
+        font-size: 14px !important;
+      }
+    }
+    #app .sidebar-container .items-transition {
+      -webkit-transform: none !important;
+      transform: unset !important;
+      transition: unset !important;
+    }
+
+    .items-transition {
+      @apply w-full;
+      .el-menu-item {
+        .el-tooltip {
+          padding: 0px !important;
+          svg {
+            @apply relative -top-1 right-0 h-6 w-6;
+          }
+        }
+      }
+    }
+
+    .svg-icon {
+      line-height: 22px !important;
+      margin-right: 2.1rem;
+      margin-left: 4px;
+      padding: 2px;
+      display: inline;
+      font-size: 1.5rem;
+      @apply h-6 w-6;
+    }
+    //  ##########################################
+    //   #app .sidebar-container .svg-icon {
+    // line-height: 22px !important;
+    // margin-right: 16px;
+    // margin-left: 3px;
+    // padding: 2px;
+    // display: inline;
+    // @apply h-6 w-6: ;
+    // font-size: 1.5rem;
+    // }
+    //  ##########################################
+    .items-transition {
+      @apply transform lg:hover:translate-x-3 lg:hover:translate-y-0 lg:translate-y-0 duration-300;
+    }
+
+    .el-menu {
+      border: none;
+      height: calc(100vh - 50px);
+      width: 100% !important;
+      position: relative;
+      -moz-box-shadow:     0 0 10px #9f95f569;
+      -webkit-box-shadow:  0 0 10px #9f95f569;
+      box-shadow:          0 0 10px #9f95f569;
+      a {
+        @apply flex;
+      }
+     .menu-wrapper:last-child{
+       position: absolute;
+       bottom:0 !important;
+     }
+    }
+    // menu hover
+    .submenu-title-noDropdown,
+
+        // dropdown titles:
+        .el-submenu__title {
+      // font-weight: 400 !important;
+      font-size: 14px !important;
+      // line-height: 22px !important;
+      display: flex;
+      align-items: center;
+      background: white !important;
+      padding-left: 24px !important;
+
+      span {
+        font-size: 14px !important;
+        @apply font-Montserrat;
+      }
+
+      // &:hover {
+      //     margin-left: 10px;
+      //     background-color: transparent !important;
+      // }
+      // Edited
+    }
+
+    .is-active,
+        >.el-menu-item,
+        // >.submenu-title-noDropdown {
+        //     padding-top: 6px !important;
+        //     Edited
+        //     color: white !important;
+        //     --tw-bg-opacity: 0.75 !important;
+        //     background-color: rgba(124, 58, 237, var(--tw-bg-opacity)) !important;
+        //     width: 220px;
+        //     height: 42px !important;
+        //     padding-top: 0%;
+        //     border-radius: 5px;
+        //     margin: 10px;
+        //     line-height: 22px !important;
+        //     --tw-shadow: 10px 10px 10px -10px #8e84f3 !important;
+        //     box-shadow: var(--tw-ring-offset-shadow, 0 0 #8e84f3), var(--tw-ring-shadow, 0 0 #8e84f3), var(--tw-shadow) !important;
+        //     --tw-shadow: 2px 2px 5px 3px #8e84f3, 2px 2px 4px 3px #8e84f3;
+        //     box-shadow: var(--tw-ring-offset-shadow, 0 0 #8e84f3), var(--tw-ring-shadow, 0 0 #8e84f3), var(--tw-shadow);
+        // }
+
+        // title and icon container per default :
+
+        .is-active>.el-menu-item>.el-submenu__title {
+      .svg-icon {
+        @apply left-2.5 h-10 w-10;
+      }
+      color: #ffff !important;
+      background: linear-gradient(
+        90deg,
+        rgba(119, 107, 241, 1) 23%,
+        rgba(119, 107, 241, 1) 41%,
+        rgba(148, 139, 244, 1) 61%
+      );
+      width: 230px;
+      margin-left: 14px !important;
+      padding-left: 14px !important;
+      border-radius: 5px;
+      margin: 5px;
+      // icons and titles when menu is active
+
+      // dropdown content: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
+
+      .is-active > .el-menu-item {
+        span {
+          @apply font-Montserrat truncate text-white;
+          font-size: 115px !important;
+        }
+        .svg-icon {
+          @apply h-10 w-10 text-red-700;
+        }
+      }
+
+      //----------------------------------------
+
+      // sidebar is shown:
+      // dropdown icons and titles when it's content selected
+      .el-submenu__title {
+        background: #f5f5f5 !important;
+        height: 45px;
+        padding-left: 10px !important;
+
+        // dropdown icons when it's content selected "Administration and Calendar"
+        .svg-icon {
+          @apply h-10 w-10 text-2xl text-gray-700;
+        }
+      }
+      .svg-icon {
+        @apply h-10 w-10 text-white;
+      }
+
+      // dropdown titles when it's content is selected:
+      span {
+        font-size: 15px !important;
+      }
+    }
+  }
+
+  // content when sidebar is shown
+  // .main-container {
+  //   // margin-left: 260px !important;
+  // }
+
+  .hideSidebar {
+    .el-submenu.is-active {
+      .el-icon-bangzhu {
+        //article icon when collapsed:
+        @apply text-gray-700 font-Montserrat;
+        font-size: 22px;
+        margin-left: 32px;
+        margin-right: 17px;
+        margin-bottom: 18px;
+      }
+    }
+  }
+
+  // plomt:
+  .el-submenu {
+    .svg-icon {
+      color: #625f6e !important;
+    }
+  }
+
+  // aligne dropdown content, new update:
+  .el-submenu.is-active.is-opened {
+    span {
+      // @apply bg-red-500;
+    }
+
+    .router-link-active {
+      .svg-icon {
+        color: #fff !important;
+      }
+
+      .el-menu-item {
+        margin-left: 1px !important;
+        width: 230px;
+        div {
+          @apply ml-4;
+        }
+      }
+    }
+  }
+
+  // remove space in mobile side:
+
+  .app-wrapper.mobile.hideSidebar {
+    .main-container {
+      margin-left: 0px !important;
+    }
+  }
+
+  .hideSidebar {
+    .el-icon-bangzhu {
+      //article icon when collapsed:
+      @apply text-gray-700 font-Montserrat;
+      font-size: 122px;
+      margin-left: 6px;
+      margin-right: 17px;
+    }
+
+    // content when sidebar is hidden
+    .main-container {
+      margin-left: 75px !important;
+    }
+
+    //dropdown icons when it's content is selected and collapesed: !!!!!!!!!!!!!!!!!!!
+    .is-active {
+      // centrizing icon when it's selected 111111111111111111111111111111111111111111111111
+      .svg-icon {
+        @apply absolute left-1;
+        color: #565656 !important;
+        margin-left:0 !important;
+      }
+
+      // icons rounded when collapsed:
+      @apply rounded-md right-0.5 w-13 h-12;
+
+      background: #f5f5f5 !important;
+
+      .el-tooltip {
+        @apply rounded-lg;
+        // width: 0px !important;
+      }
+    }
+    //---------------
+
+    // hide drop down titles when sidebar is collapsed:
+    .sidebar-container .el-submenu__title span {
+      @apply ml-10;
+    }
+    //---------------
+
+    // dropdown icon " > " :
+    .el-submenu.is-active {
+      @apply w-full;
+      .el-submenu__title {
+        .el-submenu__icon-arrow {
+          @apply left-14 top-3.5;
+        }
+      }
+    }
+
+    // hide dropdown icon ">" when collapsed and it's content selected:
+    .el-submenu {
+      @apply w-full;
+      .el-submenu__title {
+        .el-submenu__icon-arrow {
+          @apply hidden;
+          top: 29px;
+          left: 50px;
+          // background: red;
+        }
+      }
+    }
+    //----------
+
+    .sidebar-container {
+      width: 80px !important;
+    }
+
+    // drop downs in sidebar
+    .el-submenu.is-active {
+      overflow: hidden;
+
+      // dropdown icons backround when collapsed:
+      & > .el-submenu__title {
+        overflow: hidden !important;
+
+        padding: 0px !important;
+        .svg-icon {
+          @apply relative;
+          margin-left: 29px;
+          margin-right: 40px;
+          margin-bottom: 20px !important;
+        }
+      }
+    }
+
+    // dropdown icon when it's content is selected:
+    .is-active > .el-submenu__title {
+      @apply absolute -left-4 -bottom-2;
+      .svg-icon {
+      }
+    }
+  }
+}
+
+.el-menu--collapse .el-menu .el-submenu {
+  min-width: 100px !important;
+}
+
+// mobile responsive
+.mobile {
+  // content when sidebar is hidden
+  .main-container {
+    margin-left: 0px !important;
+  }
+
+  .sidebar-container {
+    transition: transform 0.28s;
+    width: $sideBarWidth !important;
+  }
+  &.hideSidebar {
+    .sidebar-container {
+      pointer-events: none;
+      transition-duration: 0.3s;
+      transform: translate3d(-$sideBarWidth, 0, 0);
+    }
+  }
+}
+
+.withoutAnimation {
+  .main-container,
+  .sidebar-container {
+    transition: none;
+  }
+}
+
+//dropdown content customizing when menu collapsed !!!!!!!!!!
+.el-menu--vertical {
+  & > .el-menu {
+    .is-active {
+      // @apply bg-blue-500 rounded-lg h-10 w-32;
+      span {
+        // font-size: 130px !important;
+        // font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+      .svg-icon {
+        margin-right: 10px !important;
+      }
+    }
+  }
+  .nest-menu .el-submenu > .el-submenu__title,
+  .el-menu-item {
+    &:hover {
+      // you can use $subMenuHover
+      background-color: $menuHover !important;
+    }
+  }
+  // the scroll bar appears when the subMenu is too long
+  > .el-menu--popup {
+    max-height: 100vh;
+    overflow-y: auto;
+    &::-webkit-scrollbar-track-piece {
+      background: #d3dce6;
+    }
+    &::-webkit-scrollbar {
+      width: 6px;
+    }
+    &::-webkit-scrollbar-thumb {
+      background: #99a9bf;
+      border-radius: 20px;
+    }
+  }
+}
+
+.el-menu-item {
+  color: gray;
+}
+
+//------------------------------------
+
+// third drop down " Articles " when sidebare is shown :
+.el-submenu {
+  .el-submenu__title {
+    .el-icon-bangzhu {
+      @apply text-gray-700 font-Montserrat;
+      font-size: 22px;
+      margin-left: 7px;
+      margin-right: 17px;
+    }
+  }
+}
+//----------------------------------
+
+// content inside the items-transition class:
+.is-active {
+  .items-transition {
+    @apply ml-3;
+  }
+}
+
+// reset dropdown title padding when it's items selected:
+.is-active {
+  .el-submenu__title {
+    padding-left: 10px !important;
+  }
+}
+
+// To make icon's title hidden when sidebar collapsed:
+.hideSidebar {
+  span {
+    // visibility: hidden;
+  }
+}
+
+// to centrize icons when sidebar collapsed:
+.sidebar-container {
+  .el-menu-item {
+    margin-left: 4px;
+  }
+}
+
+// space inside selected item
+.is-active {
+  .items-transition {
+    // margin-left: 20px;
+  }
+}
+
+// dropdown content "submenu":
+.el-submenu {
+  a {
+    li {
+      padding-left: 30px !important;
+      // background: red !important;
+    }
+  }
+}
+
+.el-submenu.is-active {
+  a {
+    li {
+      padding-left: 0px !important;
+      // background: green !important;
+    }
+  }
+}
+//---------------------------------------
+
+// dropdown content when collapsed and selected:
+.el-menu--vertical {
+  .el-menu-item.is-active {
+    @apply mx-2 h-10;
+    border-radius: 5px;
+    background: linear-gradient(
+      90deg,
+      #776bf1 23%,
+      #776bf1 41%,
+      #948bf4 61%
+    ) !important;
+  }
+}
+
+// hide icons titles when collapsed:
+.el-menu--collapse {
+  span {
+    @apply hidden;
+  }
+}
